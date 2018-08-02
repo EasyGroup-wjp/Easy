@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+   <sys-framework>
+       
+   <framework>MobileCoreServices.framework</framework><framework>SystemConfiguration.framework</framework><framework>Security.framework</framework><framework>AVFoundation.framework</framework><framework>ImageIO.framework</framework><framework>AssetsLibrary.framework</framework><framework>CoreLocation.framework</framework><framework>CoreGraphics.framework</framework></sys-framework>
+   <delegate-classes>
+       <class/>
+   </delegate-classes>
+   <debugSettings>
+       <debug/>
+       <release/>
+   </debugSettings>
+</config>
